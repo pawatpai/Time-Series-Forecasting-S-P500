@@ -52,9 +52,6 @@ The notebook will produce several visualizations and statistical outputs that he
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Any improvements or new models are welcome!
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 
