@@ -52,6 +52,7 @@ The notebook will produce several visualizations and statistical outputs that he
 
 If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. Any improvements or new models are welcome!
 - [Ittiwat812](https://github.com/Ittiwat812)
+- [titlesirapitch](https://github.com/titlesirapitch)
 
 
 ## Contact
